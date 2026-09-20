@@ -1,2 +1,1 @@
-# SmartPantryManagement
-PantryManagement
+# Smart Pantry Management
