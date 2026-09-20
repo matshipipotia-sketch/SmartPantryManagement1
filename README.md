@@ -1,3 +1,1 @@
-# Smart Pantry Management
-## Features
-## Setup Instructions
+# Smart Pantry Management App
