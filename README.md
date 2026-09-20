@@ -1,1 +1,2 @@
 # Smart Pantry Management
+## Features
